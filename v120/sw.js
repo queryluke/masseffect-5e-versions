@@ -2,10 +2,6 @@ importScripts('/v120/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/v120/_nuxt/0019a42a888d57aa31b5.js",
-    "revision": "9fd89888bb36d7a23a71ebdbbca67183"
-  },
-  {
     "url": "/v120/_nuxt/05314296ee507149294c.js",
     "revision": "811efe18909791d60e29871aad05ba6e"
   },
@@ -78,10 +74,6 @@ workbox.precaching.precacheAndRoute([
     "revision": "05d5b7e2fefaf21608930e916271345d"
   },
   {
-    "url": "/v120/_nuxt/4ff87066d4a531d6e800.js",
-    "revision": "b03c4fdccee409c345b7dcfca4e666e4"
-  },
-  {
     "url": "/v120/_nuxt/55d00d8a2153381a1ce8.js",
     "revision": "4589a6050a363e709987f3e009752651"
   },
@@ -92,6 +84,14 @@ workbox.precaching.precacheAndRoute([
   {
     "url": "/v120/_nuxt/5f42deb86605425595e1.js",
     "revision": "9ae64bbe6b07ad406880338c9f406869"
+  },
+  {
+    "url": "/v120/_nuxt/5fa8a75a3554ef21ce71.js",
+    "revision": "626dd895b9c2adfda3f86ec6ee18d34b"
+  },
+  {
+    "url": "/v120/_nuxt/62927e4eec2442cffb73.js",
+    "revision": "269d5274e6c55eb22a92ae953c3789dd"
   },
   {
     "url": "/v120/_nuxt/6bc28c6b3e3c39be3bd1.js",
@@ -158,8 +158,8 @@ workbox.precaching.precacheAndRoute([
     "revision": "7955667c1704bf5a946118555408a973"
   },
   {
-    "url": "/v120/_nuxt/b38b69bf6c975578912b.js",
-    "revision": "6a731b0a28de980c27c11444993af707"
+    "url": "/v120/_nuxt/b2edbc57fe68468c96a7.js",
+    "revision": "fb23fe3893b7a9bf0933eab707d84ad3"
   },
   {
     "url": "/v120/_nuxt/b4d72ec4b18bb0e871be.js",
@@ -190,6 +190,10 @@ workbox.precaching.precacheAndRoute([
     "revision": "840b401bff5eb9718a20639326551256"
   },
   {
+    "url": "/v120/_nuxt/c9ad9216715fd34b373f.js",
+    "revision": "7e257af7370035c7d405b5f50d7cb74a"
+  },
+  {
     "url": "/v120/_nuxt/d0a42d63a83739238162.js",
     "revision": "a7a240765a1b4e7f216373dea7029496"
   },
@@ -212,10 +216,6 @@ workbox.precaching.precacheAndRoute([
   {
     "url": "/v120/_nuxt/e1e2b30b0a22b2ce5626.js",
     "revision": "80fa416c63d82fb8d0839281badb73e7"
-  },
-  {
-    "url": "/v120/_nuxt/e28590edeeeda083c6f7.js",
-    "revision": "6e0bdb6d8188a1a2e7874ec6a1be67e3"
   },
   {
     "url": "/v120/_nuxt/e2a61c55488b180cde5d.js",
