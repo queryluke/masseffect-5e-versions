@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/print/power-cards", {data:[{}],fetch:[],mutations:[]});
