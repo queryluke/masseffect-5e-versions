@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/print/pdf", {data:[{}],fetch:[],mutations:[["pageTitle","Mass Effect 5e PDF"]]});
